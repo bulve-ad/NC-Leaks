@@ -9,16 +9,17 @@
 import requests
 import json
 
-my_url = 'https://nc-leaks.herokuapp.com/api/people'
-response = requests.get(url=my_url)
-json_response = response.json()
 
-def get_people(response):
+
+def get_people():
+    my_url = 'https://nc-leaks.herokuapp.com/api/people'
+    data_response = requests.get(url=my_url)
+    response = data_response.json()
     northcoders = []
     for person in response['people']:
         if 'northcoders' in person['job']['workplace']:
             northcoders.append(person)
     return json.dumps(northcoders)
 
-print(get_people(json_response))
+print(get_people())
 

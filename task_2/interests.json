@@ -1,1 +1,31 @@
-[{"person": {"username": "P-Copley", "interests": ["coding", "gaming", "double lunches", "brazilian jiu jitsu", "living of past glory"]}}, {"person": {"username": "SarahBrowncross", "interests": ["ancient agriculture", "space travel"]}}, {"person": {"username": "daviidbartlett", "interests": ["Coffee", "Running"]}}, {"person": {"username": "rogersop", "interests": ["food", "drink", "code", "marquee", "fantasy football", "actual football"]}}, {"person": {"username": "AnthonyMedina", "interests": ["Bouldering", "coding"]}}, {"person": {"username": "lucy_g", "interests": ["kittens", "dogs"]}}, {"person": {"username": "amy_wild", "interests": ["live music", "mozart", "metallica"]}}, {"person": {"username": "Liam310", "interests": ["gaming", "singing", "shoehorning maths into conversations"]}}, {"person": {"username": "antariess", "interests": ["reading", "fussing the cat", "gaming", "coding", "staring blanky in space"]}}, {"person": {"username": "mallionaire", "interests": ["Theatre", "Reading", "Scrabble"]}}, {"person": {"username": "icellusedkars", "interests": ["code", "needlessly quoting poetry", "the rm -rf command", "armchair activism"]}}, {"person": {"username": "RuthYMNg", "interests": ["contemporary metaphysics", "cosmology", "writing semi-archaic JavaScript", "hiking", "painting watercolours"]}}]
+[
+  {
+    "person": {
+      "interests": [
+        "coding",
+        "gaming",
+        "double lunches",
+        "brazilian jiu jitsu",
+        "living of past glory"
+      ],
+      "username": "P-Copley"
+    }
+  },
+  {
+    "person": {
+      "interests": [
+        "ancient agriculture",
+        "space travel"
+      ],
+      "username": "SarahBrowncross"
+    }
+  },
+  {
+    "person": {
+      "interests": [
+        "Coffee",
+        "Running"
+      ],
+      "username": "daviidbartlett"
+    }
+  }, {"person": {"username": "rogersop", "interests": ["food", "drink", "code", "marquee", "fantasy football", "actual football"]}}, {"person": {"username": "AnthonyMedina", "interests": ["Bouldering", "coding"]}}, {"person": {"username": "lucy_g", "interests": ["kittens", "dogs"]}}, {"person": {"username": "amy_wild", "interests": ["live music", "mozart", "metallica"]}}, {"person": {"username": "Liam310", "interests": ["gaming", "singing", "shoehorning maths into conversations"]}}, {"person": {"username": "antariess", "interests": ["reading", "fussing the cat", "gaming", "coding", "staring blanky in space"]}}, {"person": {"username": "mallionaire", "interests": ["Theatre", "Reading", "Scrabble"]}}, {"person": {"username": "icellusedkars", "interests": ["code", "needlessly quoting poetry", "the rm -rf command", "armchair activism"]}}, {"person": {"username": "RuthYMNg", "interests": ["contemporary metaphysics", "cosmology", "writing semi-archaic JavaScript", "hiking", "painting watercolours"]}}]
