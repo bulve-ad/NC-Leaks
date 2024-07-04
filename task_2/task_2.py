@@ -10,7 +10,7 @@ import json
 import requests
 
 def get_interest():
-    with open('./northcoders.json','r',encoding='utf-8') as data:
+    with open('../task_1/northcoders.json', 'r', encoding='utf-8') as data:
         interests = []
         for line in json.loads(data.read()):
             response = requests.get(url='https://nc-leaks.herokuapp.com/api/people/'+line['username']+'/interests')
